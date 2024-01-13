@@ -12,4 +12,4 @@ function trim(string) {
     return finalResult
 }
 
-trim("/C:/Users/amankeldi.kurban/Desktop/Coding/JavaScript/Concepts/10-fetch-and-async-await/flixx-app-project/01-theme-overview-prep/flixx-app/movie-details.html")
+trim("file:///C:/Users/amankeldi.kurban/Desktop/Coding/JavaScript/Concepts/10-fetch-and-async-await/flixx-app-project/01-theme-overview-prep/flixx-app/movie-details.html")
